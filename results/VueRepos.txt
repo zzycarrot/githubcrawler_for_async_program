@@ -1,0 +1,1061 @@
+{
+    "language": "vue",
+    "construct": null,
+    "total_count": 73,
+    "time_period": "Start date: 2015-01-01, end date: 2025-01-01",
+    "incomplete_results": false,
+    "status_code": "200",
+    "repositories": [
+        {
+            "index": 1,
+            "repoFullName": "xiaozhu188/electron-vue-cloud-music",
+            "creationDate": "2019-09-04",
+            "languages": {
+                "Vue": 641913,
+                "JavaScript": 139565,
+                "Less": 4835,
+                "HTML": 611
+            },
+            "stars": 2216,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 2,
+            "repoFullName": "davellanedam/vue-skeleton-mvp",
+            "creationDate": "2019-02-25",
+            "languages": {
+                "Vue": 75879,
+                "JavaScript": 69741,
+                "HTML": 765
+            },
+            "stars": 504,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 3,
+            "repoFullName": "hzzly/MagicMusic",
+            "creationDate": "2017-04-12",
+            "languages": {
+                "Vue": 113816,
+                "JavaScript": 81498,
+                "CSS": 3912,
+                "HTML": 1672
+            },
+            "stars": 361,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 4,
+            "repoFullName": "wunci/vue-video",
+            "creationDate": "2017-09-03",
+            "languages": {
+                "Vue": 46360,
+                "JavaScript": 23513,
+                "CSS": 16173,
+                "HTML": 766
+            },
+            "stars": 261,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 5,
+            "repoFullName": "BosNaufal/vue2-autocomplete",
+            "creationDate": "2016-12-30",
+            "languages": {
+                "Vue": 10876,
+                "JavaScript": 2690,
+                "HTML": 191
+            },
+            "stars": 231,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 6,
+            "repoFullName": "jimmerioles/progressive-weather-app",
+            "creationDate": "2018-02-20",
+            "languages": {
+                "Vue": 8519,
+                "JavaScript": 5632,
+                "HTML": 1789
+            },
+            "stars": 230,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 7,
+            "repoFullName": "kevinongko/vue-instagram",
+            "creationDate": "2017-01-20",
+            "languages": {
+                "Vue": 2173,
+                "JavaScript": 1214
+            },
+            "stars": 181,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 8,
+            "repoFullName": "bdrtsky/nuxt-dev-to-clone",
+            "creationDate": "2020-03-20",
+            "languages": {
+                "Vue": 64581,
+                "SCSS": 11350,
+                "JavaScript": 1949
+            },
+            "stars": 161,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 9,
+            "repoFullName": "byteboomers/vue-prom",
+            "creationDate": "2018-03-01",
+            "languages": {
+                "Vue": 1406,
+                "HTML": 796,
+                "JavaScript": 662
+            },
+            "stars": 150,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 10,
+            "repoFullName": "daliborgogic/guess-nuxt",
+            "creationDate": "2018-09-06",
+            "languages": {
+                "Vue": 6285,
+                "JavaScript": 2111
+            },
+            "stars": 127,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 11,
+            "repoFullName": "jbaysolutions/vue2-bootstrap-table",
+            "creationDate": "2017-05-31",
+            "languages": {
+                "Vue": 44790,
+                "HTML": 759,
+                "JavaScript": 477
+            },
+            "stars": 124,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 12,
+            "repoFullName": "Besmall/vue-meituan",
+            "creationDate": "2017-10-06",
+            "languages": {
+                "Vue": 44669,
+                "JavaScript": 20676,
+                "CSS": 2814,
+                "HTML": 2243
+            },
+            "stars": 100,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 13,
+            "repoFullName": "jbaysolutions/vue-bootstrap-table",
+            "creationDate": "2016-08-08",
+            "languages": {
+                "Vue": 25864,
+                "JavaScript": 5773,
+                "HTML": 1841
+            },
+            "stars": 89,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 14,
+            "repoFullName": "dillingham/nova-ajax-select",
+            "creationDate": "2019-02-10",
+            "languages": {
+                "Vue": 3823,
+                "PHP": 1072,
+                "JavaScript": 214
+            },
+            "stars": 80,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 15,
+            "repoFullName": "awes-io/form-builder",
+            "creationDate": "2019-04-28",
+            "languages": {
+                "Vue": 114601,
+                "JavaScript": 41349,
+                "HTML": 9982,
+                "CSS": 7372,
+                "PHP": 1150
+            },
+            "stars": 66,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 16,
+            "repoFullName": "micro-frontends-vue/async-routes",
+            "creationDate": "2019-05-06",
+            "languages": {
+                "Vue": 8283,
+                "JavaScript": 7592,
+                "TypeScript": 1145,
+                "HTML": 857
+            },
+            "stars": 51,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 17,
+            "repoFullName": "ponjs/uni-ajax",
+            "creationDate": "2020-05-28",
+            "languages": {
+                "Vue": 19473,
+                "JavaScript": 15594,
+                "HTML": 672
+            },
+            "stars": 49,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 18,
+            "repoFullName": "yazan-alnugnugh/file-upload",
+            "creationDate": "2022-01-27",
+            "languages": {
+                "Vue": 13422
+            },
+            "stars": 42,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 19,
+            "repoFullName": "rlemaigre/vue3-promise-dialog",
+            "creationDate": "2022-01-26",
+            "languages": {
+                "Vue": 6186,
+                "TypeScript": 4701,
+                "HTML": 337
+            },
+            "stars": 41,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 20,
+            "repoFullName": "Lemon-whales/base-mall",
+            "creationDate": "2020-06-24",
+            "languages": {
+                "Vue": 124025,
+                "JavaScript": 94383,
+                "CSS": 54248
+            },
+            "stars": 39,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 21,
+            "repoFullName": "JounQin/vue-async-modal",
+            "creationDate": "2017-06-10",
+            "languages": {
+                "Vue": 6683,
+                "SCSS": 4936,
+                "TypeScript": 801,
+                "Shell": 245,
+                "JavaScript": 142
+            },
+            "stars": 37,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 22,
+            "repoFullName": "TerryZ/v-ztree",
+            "creationDate": "2018-05-07",
+            "languages": {
+                "Vue": 4811,
+                "JavaScript": 2707
+            },
+            "stars": 35,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 23,
+            "repoFullName": "derickweng/vue-mymusic",
+            "creationDate": "2017-02-14",
+            "languages": {
+                "Vue": 40248,
+                "JavaScript": 24001,
+                "CSS": 6377,
+                "HTML": 193
+            },
+            "stars": 34,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 24,
+            "repoFullName": "ML666666/Aone_PC",
+            "creationDate": "2019-06-09",
+            "languages": {
+                "Vue": 261488,
+                "JavaScript": 109991,
+                "HTML": 272
+            },
+            "stars": 32,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 25,
+            "repoFullName": "shuyudao/Stime",
+            "creationDate": "2019-10-15",
+            "languages": {
+                "Vue": 29407,
+                "CSS": 28796,
+                "JavaScript": 4303,
+                "PHP": 1538,
+                "HTML": 1059
+            },
+            "stars": 30,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 26,
+            "repoFullName": "e6Hub/app",
+            "creationDate": "2019-11-20",
+            "languages": {
+                "Vue": 74367,
+                "JavaScript": 39972,
+                "CSS": 4009,
+                "HTML": 368
+            },
+            "stars": 30,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 27,
+            "repoFullName": "buckypinkman/nuxt-weebflix-animelist",
+            "creationDate": "2020-12-29",
+            "languages": {
+                "Vue": 20214,
+                "JavaScript": 2988
+            },
+            "stars": 25,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 28,
+            "repoFullName": "vueschool/nuxt-async-data",
+            "creationDate": "2018-12-17",
+            "languages": {
+                "Vue": 4624,
+                "JavaScript": 1794,
+                "CSS": 975
+            },
+            "stars": 20,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 29,
+            "repoFullName": "YuxinChou/Code-VueWapDemo",
+            "creationDate": "2017-11-06",
+            "languages": {
+                "Vue": 91456,
+                "JavaScript": 49330,
+                "CSS": 5822,
+                "HTML": 610
+            },
+            "stars": 19,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 30,
+            "repoFullName": "alexlees/alexlees.github.io",
+            "creationDate": "2018-06-10",
+            "languages": {
+                "Vue": 59985,
+                "JavaScript": 56077,
+                "HTML": 14496,
+                "CSS": 1089
+            },
+            "stars": 19,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 31,
+            "repoFullName": "epartment/nova-unique-ajax-field",
+            "creationDate": "2018-09-13",
+            "languages": {
+                "Vue": 4380,
+                "PHP": 3655,
+                "JavaScript": 516,
+                "CSS": 17
+            },
+            "stars": 19,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 32,
+            "repoFullName": "yemiwebby/vue-axios",
+            "creationDate": "2017-10-31",
+            "languages": {
+                "Vue": 2273,
+                "JavaScript": 1907,
+                "HTML": 312
+            },
+            "stars": 18,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 33,
+            "repoFullName": "coffeebank/soju",
+            "creationDate": "2022-03-18",
+            "languages": {
+                "Vue": 30463,
+                "JavaScript": 9488,
+                "CSS": 2118,
+                "HTML": 877,
+                "Shell": 54
+            },
+            "stars": 17,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 34,
+            "repoFullName": "jianaimm/Movie---Vue",
+            "creationDate": "2017-09-05",
+            "languages": {
+                "Vue": 77829,
+                "JavaScript": 75301,
+                "HTML": 739
+            },
+            "stars": 16,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 35,
+            "repoFullName": "xivapi/vue-xivtooltips",
+            "creationDate": "2020-05-11",
+            "languages": {
+                "Vue": 16620,
+                "JavaScript": 11057,
+                "HTML": 4576
+            },
+            "stars": 16,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 36,
+            "repoFullName": "zhoou/vue-questionnaire",
+            "creationDate": "2017-08-23",
+            "languages": {
+                "Vue": 46660,
+                "JavaScript": 37680,
+                "CSS": 24856,
+                "HTML": 215
+            },
+            "stars": 14,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 37,
+            "repoFullName": "johndatserakis/chrome-ribbon-reminder",
+            "creationDate": "2018-04-10",
+            "languages": {
+                "Vue": 9991,
+                "CSS": 4081,
+                "JavaScript": 2349,
+                "HTML": 169
+            },
+            "stars": 12,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 38,
+            "repoFullName": "KrunalLathiya/VueElasticNode",
+            "creationDate": "2018-07-05",
+            "languages": {
+                "Vue": 3720,
+                "JavaScript": 2794,
+                "HTML": 549
+            },
+            "stars": 12,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 39,
+            "repoFullName": "thuongtruong1009/gitbox",
+            "creationDate": "2021-10-08",
+            "languages": {
+                "Vue": 218989,
+                "TypeScript": 9607,
+                "HTML": 2471,
+                "JavaScript": 2277,
+                "CSS": 1893
+            },
+            "stars": 12,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 40,
+            "repoFullName": "bgschiller/vue-await",
+            "creationDate": "2018-07-21",
+            "languages": {
+                "Vue": 15385,
+                "JavaScript": 4600,
+                "HTML": 545
+            },
+            "stars": 11,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 41,
+            "repoFullName": "Timibadass/nuxt-report-app",
+            "creationDate": "2020-04-09",
+            "languages": {
+                "Vue": 26203,
+                "CSS": 7746,
+                "JavaScript": 6235
+            },
+            "stars": 11,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 42,
+            "repoFullName": "razorcreations/nova-ajax-field",
+            "creationDate": "2020-06-30",
+            "languages": {
+                "Vue": 5972,
+                "PHP": 3590,
+                "JavaScript": 916,
+                "CSS": 21
+            },
+            "stars": 11,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 43,
+            "repoFullName": "bezkoder/vue-fetch-example",
+            "creationDate": "2021-10-22",
+            "languages": {
+                "Vue": 10139,
+                "HTML": 715,
+                "JavaScript": 221
+            },
+            "stars": 11,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 44,
+            "repoFullName": "cloudlace/vuetify-dialog-promise",
+            "creationDate": "2019-06-24",
+            "languages": {
+                "Vue": 19646,
+                "JavaScript": 17385,
+                "HTML": 798
+            },
+            "stars": 10,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 45,
+            "repoFullName": "lsh555/TmUniapp",
+            "creationDate": "2020-12-25",
+            "languages": {
+                "Vue": 117021,
+                "JavaScript": 17756,
+                "CSS": 4188,
+                "SCSS": 2311
+            },
+            "stars": 10,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 46,
+            "repoFullName": "codeBaby666/xbn_admin",
+            "creationDate": "2017-08-09",
+            "languages": {
+                "Vue": 156830,
+                "CSS": 66136,
+                "JavaScript": 38948,
+                "HTML": 278
+            },
+            "stars": 9,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 47,
+            "repoFullName": "gianlucacandiotti/vue-rx-lessons",
+            "creationDate": "2018-05-21",
+            "languages": {
+                "Vue": 30026,
+                "JavaScript": 2364,
+                "HTML": 539
+            },
+            "stars": 9,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 48,
+            "repoFullName": "fangjc1986/vue-quick-mobile-app",
+            "creationDate": "2019-10-21",
+            "languages": {
+                "Vue": 77993,
+                "CSS": 36639,
+                "JavaScript": 29510,
+                "HTML": 697
+            },
+            "stars": 9,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 49,
+            "repoFullName": "flowlist/vue-listview",
+            "creationDate": "2020-08-01",
+            "languages": {
+                "Vue": 29907,
+                "JavaScript": 13915,
+                "Shell": 394
+            },
+            "stars": 9,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 50,
+            "repoFullName": "gtech-professional-services/prefetchalyzer",
+            "creationDate": "2020-10-28",
+            "languages": {
+                "Vue": 47329,
+                "TypeScript": 39840,
+                "JavaScript": 1664,
+                "SCSS": 1404,
+                "HTML": 702
+            },
+            "stars": 9,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 51,
+            "repoFullName": "debs-obrien/nuxt-beers",
+            "creationDate": "2020-11-03",
+            "languages": {
+                "Vue": 21722,
+                "JavaScript": 2454,
+                "CSS": 346
+            },
+            "stars": 9,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 52,
+            "repoFullName": "lincenying/vue2-ajax-form",
+            "creationDate": "2016-09-22",
+            "languages": {
+                "Vue": 3294
+            },
+            "stars": 8,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 53,
+            "repoFullName": "zhangximufeng/vueDemo",
+            "creationDate": "2017-06-26",
+            "languages": {
+                "Vue": 396337,
+                "HTML": 69678,
+                "JavaScript": 55447,
+                "CSS": 3227
+            },
+            "stars": 8,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 54,
+            "repoFullName": "calebporzio/vue-fetch-html",
+            "creationDate": "2018-04-21",
+            "languages": {
+                "Vue": 1061,
+                "JavaScript": 505
+            },
+            "stars": 8,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 55,
+            "repoFullName": "maoberlehner/vue-3-composition-api-data-fetching-composable",
+            "creationDate": "2020-05-05",
+            "languages": {
+                "Vue": 5235,
+                "JavaScript": 4105,
+                "HTML": 613,
+                "CSS": 61
+            },
+            "stars": 8,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 56,
+            "repoFullName": "0fca/pika-note",
+            "creationDate": "2020-08-16",
+            "languages": {
+                "Vue": 11976,
+                "CSS": 6039,
+                "JavaScript": 4703,
+                "HTML": 1681,
+                "Dockerfile": 240
+            },
+            "stars": 8,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 57,
+            "repoFullName": "TOBEJIKE/JkMustard-Vue",
+            "creationDate": "2017-10-26",
+            "languages": {
+                "Vue": 69689,
+                "JavaScript": 24944,
+                "CSS": 1741,
+                "HTML": 726
+            },
+            "stars": 7,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 58,
+            "repoFullName": "nextcloud/nextcloud-password-confirmation",
+            "creationDate": "2018-09-11",
+            "languages": {
+                "Vue": 3422,
+                "TypeScript": 3228,
+                "JavaScript": 537
+            },
+            "stars": 7,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 59,
+            "repoFullName": "zhengsigen/vue-bookbar",
+            "creationDate": "2019-09-24",
+            "languages": {
+                "Vue": 754624,
+                "JavaScript": 20948,
+                "HTML": 4889,
+                "CSS": 1384,
+                "FreeMarker": 1268
+            },
+            "stars": 7,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 60,
+            "repoFullName": "forijk/vue-chat-better",
+            "creationDate": "2020-05-20",
+            "languages": {
+                "Vue": 43792,
+                "JavaScript": 3717
+            },
+            "stars": 7,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 61,
+            "repoFullName": "jvp-design/stock-chart-fastapi-vue",
+            "creationDate": "2022-02-15",
+            "languages": {
+                "Vue": 19512,
+                "Python": 2425,
+                "JavaScript": 959,
+                "HTML": 337,
+                "CSS": 81
+            },
+            "stars": 7,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 62,
+            "repoFullName": "vue-project/vue-nasa",
+            "creationDate": "2017-06-28",
+            "languages": {
+                "Vue": 3672,
+                "JavaScript": 1036,
+                "HTML": 334
+            },
+            "stars": 6,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 63,
+            "repoFullName": "EHfive/LLproxy-web",
+            "creationDate": "2017-07-10",
+            "languages": {
+                "Vue": 240297,
+                "JavaScript": 28080,
+                "CSS": 4876,
+                "HTML": 2679,
+                "Shell": 181,
+                "PHP": 30
+            },
+            "stars": 6,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 64,
+            "repoFullName": "IgorHalfeld/ajax-patterns-vuejs-demo",
+            "creationDate": "2019-10-06",
+            "languages": {
+                "Vue": 3277,
+                "JavaScript": 3153
+            },
+            "stars": 6,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 65,
+            "repoFullName": "serversideup/fetch-api-vuejs",
+            "creationDate": "2021-11-09",
+            "languages": {
+                "Vue": 16090,
+                "JavaScript": 1319,
+                "HTML": 611
+            },
+            "stars": 6,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 66,
+            "repoFullName": "ElMatella/nuxt-fetch",
+            "creationDate": "2021-12-24",
+            "languages": {
+                "Vue": 8903,
+                "JavaScript": 2138
+            },
+            "stars": 6,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 67,
+            "repoFullName": "didengren/weex-sm-demo",
+            "creationDate": "2017-07-27",
+            "languages": {
+                "Vue": 19426,
+                "JavaScript": 8487,
+                "Smarty": 1133
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 68,
+            "repoFullName": "KamChing/mui",
+            "creationDate": "2017-08-22",
+            "languages": {
+                "Vue": 25959,
+                "JavaScript": 24290,
+                "HTML": 380
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 69,
+            "repoFullName": "gjunhub/wangyiyunMusic-project",
+            "creationDate": "2017-09-04",
+            "languages": {
+                "Vue": 100602,
+                "JavaScript": 30248,
+                "HTML": 193
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 70,
+            "repoFullName": "MTTTM/async-validator-dev",
+            "creationDate": "2019-01-05",
+            "languages": {
+                "Vue": 132546,
+                "JavaScript": 47679,
+                "CSS": 31669
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 71,
+            "repoFullName": "phanan/unit-test-async-component",
+            "creationDate": "2019-04-27",
+            "languages": {
+                "Vue": 2696,
+                "JavaScript": 1799,
+                "HTML": 567
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 72,
+            "repoFullName": "thiagorossener/frank-app",
+            "creationDate": "2019-09-14",
+            "languages": {
+                "Vue": 7345,
+                "JavaScript": 1581,
+                "CSS": 1129
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        },
+        {
+            "index": 73,
+            "repoFullName": "astrotrain55/vue-bitrix24",
+            "creationDate": "2021-11-14",
+            "languages": {
+                "Vue": 81360,
+                "JavaScript": 24225,
+                "HTML": 341,
+                "PHP": 38
+            },
+            "stars": 5,
+            "issues": null,
+            "commits": null,
+            "async_constructs": null
+        }
+    ]
+}
