@@ -56,6 +56,59 @@
                     "promise": 4,
                     "async": 7
                }
+          },
+          {
+               "index": 4,
+               "repoFullName": "olifolkerd/tabulator",
+               "creationDate": "2015-10-24",
+               "languages": {
+                    "JavaScript": 653369,
+                    "SCSS": 288807
+               },
+               "stars": 5166,
+               "issues": null,
+               "commits": null,
+               "async_constructs": {
+                    "callback": 21,
+                    "promise": 13,
+                    "async": 0
+               }
+          },
+          {
+               "index": 5,
+               "repoFullName": "wendux/fly",
+               "creationDate": "2017-09-16",
+               "languages": {
+                    "JavaScript": 117417,
+                    "HTML": 14129,
+                    "TypeScript": 495
+               },
+               "stars": 3826,
+               "issues": null,
+               "commits": null,
+               "async_constructs": {
+                    "callback": 35,
+                    "promise": 13,
+                    "async": 2
+               }
+          },
+          {
+               "index": 6,
+               "repoFullName": "muicss/loadjs",
+               "creationDate": "2015-07-09",
+               "languages": {
+                    "JavaScript": 38979,
+                    "HTML": 652,
+                    "CSS": 60
+               },
+               "stars": 2548,
+               "issues": null,
+               "commits": null,
+               "async_constructs": {
+                    "callback": 14,
+                    "promise": 7,
+                    "async": 6
+               }
           }
      ]
 }
