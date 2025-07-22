@@ -1,0 +1,61 @@
+{
+     "language": "js",
+     "construct": "callback",
+     "total_count": 1164,
+     "time_period": "Start date: 2015-01-01, end date: 2025-01-01",
+     "incomplete_results": false,
+     "status_code": "200",
+     "repositories": [
+          {
+               "index": 1,
+               "repoFullName": "koajs/koa",
+               "creationDate": "2013-07-20",
+               "languages": {
+                    "JavaScript": 178448
+               },
+               "stars": 33563,
+               "issues": null,
+               "commits": null,
+               "async_constructs": {
+                    "callback": 14,
+                    "promise": 5,
+                    "async": 13
+               }
+          },
+          {
+               "index": 2,
+               "repoFullName": "tj/co",
+               "creationDate": "2013-06-06",
+               "languages": {
+                    "JavaScript": 21522
+               },
+               "stars": 11817,
+               "issues": null,
+               "commits": null,
+               "async_constructs": {
+                    "callback": 6,
+                    "promise": 3,
+                    "async": 0
+               }
+          },
+          {
+               "index": 3,
+               "repoFullName": "ljianshu/Blog",
+               "creationDate": "2018-06-16",
+               "languages": {
+                    "JavaScript": 203705,
+                    "HTML": 55043,
+                    "Vue": 21295,
+                    "CSS": 6433
+               },
+               "stars": 7454,
+               "issues": null,
+               "commits": null,
+               "async_constructs": {
+                    "callback": 11,
+                    "promise": 4,
+                    "async": 7
+               }
+          }
+     ]
+}
